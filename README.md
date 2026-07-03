@@ -1,4 +1,4 @@
-#  PDF RAG Pipeline with LangChain
+#  RAG Pipeline with LangChain
 
 A simple Retrieval-Augmented Generation (RAG) project that demonstrates how to build a document question-answering pipeline using LangChain, Hugging Face embeddings, and ChromaDB.
 
